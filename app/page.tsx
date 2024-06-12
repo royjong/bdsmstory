@@ -23,7 +23,7 @@ const Home = () => {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 py-12">
           <div className="lg:col-span-5 order-1 lg:order-none w-full">
             <Image
-              src="https://www.shutterstock.com/image-photo/closeup-female-hands-holding-black-600nw-2358205775.jpg"
+              src="https://www.christineleduc.nl/cldmagazine/wp-content/uploads/2022/08/Wat-is-BDSM-Christine-le-Duc-scaled.jpg"
               layout="responsive"
               width={400}
               height={400}
